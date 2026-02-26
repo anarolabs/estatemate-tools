@@ -1,0 +1,12 @@
+# Credentials (never commit API keys)
+.linear_api/
+*.credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+Thumbs.db
